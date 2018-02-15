@@ -11,6 +11,7 @@ var WIZARD_OPTIONS = {
 
 // --------- ОБРАБОТКА СОБЫТИЙ -----------
 
+
 var openWindowHero = function () {
   var ESC_KEYCODE = 27;
   var ENTER_KEYCODE = 13;
